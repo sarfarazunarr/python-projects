@@ -1,0 +1,7 @@
+This is a small password manager that saves your password with site name, username. If you are new user it will ask you to create a master password after creating you will be asked to choose weather you wants to add password or view password if you are new user when you select view first time it will show error, so you must add password first then you will be able to see password.
+
+This program uses cryptography library for encrypting master and other passwords and also it decrypts at the time of viewing passwords.
+
+You can easily add more things in it.
+
+Sarfaraz Unar!
