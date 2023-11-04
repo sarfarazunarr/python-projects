@@ -9,8 +9,8 @@ Welcome to my Python Projects repository! This repository contains various Pytho
 - [Project 2:Typing Speed Tester](#project-2-typing-speed-tester)
 - [Project 3: Face Detector](#project-3-face-detector)
 - [Project 4: PDF Protector](#project-4-pdf-protector)
-- [Project 4: PDF2WORD](#project-4-pdf2word)
-- [Project 4: Video to Audio](#project-4-video-to-audio)
+- [Project 5: PDF2WORD](#project-5-pdf2word)
+- [Project 6: Video to Audio](#project-6-video-to-audio)
 - ...
 
 ## Project 1: Password Manager
