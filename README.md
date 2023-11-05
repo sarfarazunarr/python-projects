@@ -11,7 +11,7 @@ Welcome to my Python Projects repository! This repository contains various Pytho
 - [Project 4: PDF Protector](#project-4-pdf-protector)
 - [Project 5: PDF2WORD](#project-5-pdf2word)
 - [Project 6: Video to Audio](#project-6-video-to-audio)
-- ...
+- [Project 7: Screen Recorder](#project-7-screen-recorder)
 
 ## Project 1: Password Manager
 
@@ -105,6 +105,20 @@ _Description: This is a small project which convert video to audio and also can 
 ### Technologies Used
 
 - It is created with Python and moviepy module.
+- 
+## Project 7: Screen Recorder
+
+_Description: This is a small project by this you can easily record your screen in HD mode and without any watermark and also low size. _
+
+### Features
+
+- User is able to record screen.
+- No Watermark, No Premium, No Internet Connection .
+- HD Video Low File Size.
+
+### Technologies Used
+
+- It is created with Python and opencv, pyautogui, time module.
 - 
 
 ## How to Use This Repository
