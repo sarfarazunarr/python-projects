@@ -12,6 +12,7 @@ Welcome to my Python Projects repository! This repository contains various Pytho
 - [Project 5: PDF2WORD](#project-5-pdf2word)
 - [Project 6: Video to Audio](#project-6-video-to-audio)
 - [Project 7: Screen Recorder](#project-7-screen-recorder)
+- [Project 8: Google Link Extractor](#project-8-google-link-extractor)
 
 ## Project 1: Password Manager
 
@@ -119,6 +120,20 @@ _Description: This is a small project by this you can easily record your screen 
 ### Technologies Used
 
 - It is created with Python and opencv, pyautogui, time module.
+- 
+## Project 8: Google Link Extractor
+
+_Description: This is a small GUI Project that helps you to get the link of websites with titles. _
+
+### Features
+
+- User is easily add query and number of results.
+- User is able to see title with link.
+- Easy GUI no CLI.
+
+### Technologies Used
+
+- It is created with Python and google search module.
 - 
 
 ## How to Use This Repository
