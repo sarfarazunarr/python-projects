@@ -13,6 +13,7 @@ Welcome to my Python Projects repository! This repository contains various Pytho
 - [Project 6: Video to Audio](#project-6-video-to-audio)
 - [Project 7: Screen Recorder](#project-7-screen-recorder)
 - [Project 8: Google Link Extractor](#project-8-google-link-extractor)
+- [Project 9: Hangman Game](#project-9-hangman-game)
 
 ## Project 1: Password Manager
 
@@ -133,9 +134,21 @@ _Description: This is a small GUI Project that helps you to get the link of webs
 
 ### Technologies Used
 
-- It is created with Python and google search module.
-- 
+- It is created with Python and google search module. 
 
+## Project 9: Hangman Game
+
+_Description: This is a small game which can be won if you guess right letter. _
+
+### Features
+
+- User is easily play game..
+- This game is currently CLI Based.
+
+### Technologies Used
+
+- It is created with Python and random module.
+- 
 ## How to Use This Repository
 
 1. **Clone the Repository:**
