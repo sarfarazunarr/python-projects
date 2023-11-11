@@ -14,6 +14,7 @@ Welcome to my Python Projects repository! This repository contains various Pytho
 - [Project 7: Screen Recorder](#project-7-screen-recorder)
 - [Project 8: Google Link Extractor](#project-8-google-link-extractor)
 - [Project 9: Hangman Game](#project-9-hangman-game)
+- [Project 10: SecureIt](#project-10-secureit)
 
 ## Project 1: Password Manager
 
@@ -148,7 +149,25 @@ _Description: This is a small game which can be won if you guess right letter. _
 ### Technologies Used
 
 - It is created with Python and random module.
-- 
+
+## Project 10: SecureIt (Message Encryptor)
+
+_Description: This is a project by this you can easily encrypt a message with secure password and can send your message to friend who will decrypt message by typing same password_.
+
+### Features
+
+- User is able to encrypt password.
+- User is able to decrypt password.
+- User is able to encrypt the ecrypt string (By adding encrypted string in password field and again encryption).
+### Technologies Used
+
+- It is created with Python and pybase64 module for encrypting passwords.
+
+
+### Additional Notes
+
+_It will use one  password that you have to setup when using code._
+
 ## How to Use This Repository
 
 1. **Clone the Repository:**
