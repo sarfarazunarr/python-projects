@@ -15,6 +15,7 @@ Welcome to my Python Projects repository! This repository contains various Pytho
 - [Project 8: Google Link Extractor](#project-8-google-link-extractor)
 - [Project 9: Hangman Game](#project-9-hangman-game)
 - [Project 10: SecureIt](#project-10-secureit)
+- [Project 11: Auto Spell Writer](#project-11-spell-writer)
 
 ## Project 1: Password Manager
 
@@ -167,6 +168,19 @@ _Description: This is a project by this you can easily encrypt a message with se
 ### Additional Notes
 
 _It will use one  password that you have to setup when using code._
+
+## Project 11: Auto Spell Corrector
+
+_Description: This is a small project which help you in writing spells if you give it wrong spell it write correct spell of give word._
+
+### Features
+
+- User is able to add incorrect spell and get correct spell.
+- 
+### Technologies Used
+
+- It is created with Python and textblob modules.
+- 
 
 ## How to Use This Repository
 
