@@ -16,6 +16,7 @@ Welcome to my Python Projects repository! This repository contains various Pytho
 - [Project 9: Hangman Game](#project-9-hangman-game)
 - [Project 10: SecureIt](#project-10-secureit)
 - [Project 11: Auto Spell Writer](#project-11-spell-writer)
+- [Project 12: Full Form GPT](#project-12-ffgpt)
 
 ## Project 1: Password Manager
 
@@ -181,6 +182,18 @@ _Description: This is a small project which help you in writing spells if you gi
 
 - It is created with Python and textblob modules.
 - 
+## Project 12: Full Form GPT
+
+_Description: This is a small project which utilizes the use of Generative AI like ChatGPT. This is free g4f.ai's module which allow us to use ChatGPT for free._
+
+### Features
+
+- Provide Short Abbreviate and get full form from AI.
+- 
+### Technologies Used
+
+- It is created with Python and g4f.
+
 
 ## How to Use This Repository
 
